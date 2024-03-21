@@ -1,0 +1,86 @@
+*{ box-sizing: border-box; }
+
+div{
+    border:1px solid black;
+}
+
+img{
+    width: 100%;
+    height:100%;
+    object-fit: cover;
+}
+
+div#container{
+    width:1170px;
+    margin:auto;
+}
+
+div.presentation{
+    width:33.33%;
+    float:left;
+    height:600px;
+}
+
+
+div.presentation h2{
+
+}
+
+div.presentation p{
+    
+}
+
+div.cartable{
+    width:33.33%;
+    float:left;
+    height:300px;
+}
+
+div.pommier{
+    width:33.33%;
+    float:left;
+    height:300px;
+}
+
+div.title{
+    width:33.33%;
+    float:left;
+    height:300px;
+}
+
+div.title h1{
+
+}
+
+div.reveil{
+    width:33.33%;
+    float:left;
+    height:300px;
+}
+
+div.blondinette{
+    width:33.33%;
+    float:left;
+    height:300px;
+}
+
+
+div.description{
+    width:66.66%;
+    float:left;
+    height:300px;
+}
+
+
+div.description h3{
+
+}
+
+
+div.description p{
+
+}
+
+div.description a{
+    
+}
